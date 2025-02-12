@@ -1,10 +1,4 @@
-**Title: "HW 8, CS 625, Fall 2022"**
-
-**Author: "LOKESH REDDY SONTIREDDY"**
-
-**Date: Thursday, December 8, 2022 by 11:59pm**
-
-# Homework 8: Project - Implement Final Chart
+# Project - Implement Final Chart
 
 ## Choosing the datasets
 
