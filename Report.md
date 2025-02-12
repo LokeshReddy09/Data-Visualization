@@ -1,4 +1,4 @@
-# Project - Implement Final Chart
+# Project - Public Health Data Analysis: COVID-19 Trend Analysis in US Prisons
 
 ## Choosing the datasets
 
