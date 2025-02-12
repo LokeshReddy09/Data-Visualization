@@ -58,7 +58,7 @@ px.bar(df, color="facility_type", y="facility_state", x="total_inmate_cases", ho
         - **Plotly Express**
         - **Mapbox API (Open Street Map)**
 
-## **Scatter Mapbox Code:
+## Scatter Mapbox Code:
 
 ```python
 import plotly.express as px
